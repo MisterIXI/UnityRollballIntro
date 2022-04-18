@@ -1,5 +1,7 @@
 # UnityRollballIntro
 
+Intro for the UnityRollball tutorial. This is basically only a testrun from [wiapMR](https://github.com/MisterIXI/wiapMR)
+
 # dev environment
 - unity hub v3.1.1
 - unity editor v2021.3.0f1 (lts)
