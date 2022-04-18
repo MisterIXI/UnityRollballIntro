@@ -7,3 +7,6 @@ Intro for the UnityRollball tutorial. This is basically only a testrun from [wia
 - unity editor v2021.3.0f1 (lts)
 - visual studio community 2019 (unity code editor integration)
 - [MRTK-unity](https://github.com/microsoft/MixedRealityToolkit-Unity/releases/tag/2.7.3) (foundation unitypackage)
+- vscode
+    - Unity.unity-debug for debugging
+    - copilot for code completion
