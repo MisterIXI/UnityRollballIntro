@@ -1,6 +1,6 @@
 # UnityRollballIntro
 
-Intro for the UnityRollball tutorial. This is basically only a testrun from [wiapMR](https://github.com/MisterIXI/wiapMR)
+Intro for the UnityRollball tutorial. This is basically only a test run from [wiapMR](https://github.com/MisterIXI/wiapMR)
 
 # dev environment
 - unity hub v3.1.1
